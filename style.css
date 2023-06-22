@@ -1,0 +1,78 @@
+.principal {
+  padding: 50px;
+  border: 2px solid red;
+}
+
+.fondo {
+  background-color: rgb(229, 243, 254);
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 20px;
+  padding-top: 25px;
+}
+
+.foto-carnet {
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
+
+.nombre {
+  height: 200px;
+  max-width: 615px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.container1 {
+  margin-bottom: 20px;
+}
+
+.container2{
+  border: 1px solid rgb(81, 195, 247);
+  height: 150px;
+  padding-left: 10%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.sobremi {
+  display: block;
+  margin: auto;
+}
+
+.textomio {
+  display: block;
+  margin: auto;
+}
+
+.c-info1 {
+  padding-top: 30px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(243, 208, 214, 0.958);
+  font-family:Arial;
+  border-bottom-left-radius: 20px ;
+}
+
+.educacion {
+  margin-bottom: 60px;
+}
+
+.secundaria {
+  margin-bottom: 60px;
+}
+
+.contacto {
+  margin-bottom: 30px;
+}
+
+.c-info2 {
+  padding-top: 30px;
+}
+
+.cursos {
+  padding-bottom: 60px;
+}
